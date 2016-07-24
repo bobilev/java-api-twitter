@@ -1,0 +1,60 @@
+#buttonUP {
+	-fx-background-image: url("1.png");
+	-fx-background-position: center;
+	-fx-background-size: 7px 10px;
+	-fx-background-repeat: no-repeat;
+	-fx-background-color: #3E3B3B;
+	
+}
+#buttonExit {
+	-fx-background-image: url("exit.png");
+	-fx-background-position: center;
+	-fx-background-size: 22px 35px;
+	-fx-background-repeat: no-repeat;
+	-fx-background-color: #3E3B3B;
+	
+}
+#buttonClear {
+	-fx-background-image: url("Clear.png");
+	-fx-background-position: center;
+	-fx-background-size: 15px 17px;
+	-fx-background-repeat: no-repeat;
+	-fx-background-color: #3E3B3B;
+}
+#buttonStart {
+	-fx-background-image: url("Start.png");
+	-fx-background-position: center;
+	-fx-background-size: 46px 50px;
+	-fx-background-repeat: no-repeat;
+	-fx-background-color: #3E3B3B;
+}
+#buttonStop {
+	-fx-background-image: url("Stop.png");
+	-fx-background-position: center;
+	-fx-background-size: 46px 50px;
+	-fx-background-repeat: no-repeat;
+	-fx-background-color: #3E3B3B;
+}
+#buttondelettextArea {
+	-fx-background-image: url("deletTextArea.png");
+	-fx-background-position: center;
+	-fx-background-size: 20px 29px;
+	-fx-background-repeat: no-repeat;
+	-fx-background-color: #3E3B3B;
+}
+#buttonDB {
+	-fx-background-image: url("DB.png");
+	-fx-background-position: center;
+	-fx-background-size: 30px 30px;
+	-fx-background-repeat: no-repeat;
+	-fx-background-color: #3E3B3B;
+}
+#ChoiceBox {
+	-fx-background-color: #3E3B3B;	
+	-fx-text-fill: #d09713;
+}
+#ChoiceBox .label{
+	-fx-text-fill: #d09713;
+	-fx-font-size: 15px;
+}
+
